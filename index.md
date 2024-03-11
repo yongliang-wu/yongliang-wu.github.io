@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Master student at Southeast University.
+I am currently a Master student at [Southeast University](https://www.seu.edu.cn/) supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). Prior to this, I also obtained my bachelor’s degree from [Southeast University](https://www.seu.edu.cn/), too.
+
+
 
 ## Research Interests
 
-- **Deep Learning:** image captioning, in-context learning, large language pretraining
+- **Deep Learning:** image captioning, in-context learning, large language model pretraining
 
 ## News
 
