@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Master student at [Southeast University](https://www.seu.edu.cn/) supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). Prior to this, I also obtained my bachelor’s degree from [Southeast University](https://www.seu.edu.cn/), too.
-
-
+I am currently a Master student at [Southeast University](https://www.seu.edu.cn/) supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). Prior to this, I received my bachelor's degree from [Southeast University](https://www.seu.edu.cn/) in 2023. 
 
 ## Research Interests
 
