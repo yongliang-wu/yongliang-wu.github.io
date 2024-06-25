@@ -13,7 +13,7 @@ I am currently a Master student at [Southeast University](https://www.seu.edu.cn
 ## News
 
 - **[Jun. 2024]** We received the Highest Score Award at the CVPR Long-Form Video Understanding Workshop Track 1 challenge.
-- **[May. 2024]** Our paper about In-Context Learning is accepted to FCS 2024.
+- **[Apr. 2024]** Our paper about In-Context Learning is accepted to FCS 2024.
 - **[Sep. 2023]** Our paper about In-Context Learning is accepted to NeurIPS 2023.
 
 {% include_relative _includes/publications.md %}
