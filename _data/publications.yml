@@ -1,7 +1,14 @@
 main:
 
+  - title: A glance at In-Context
+    authors: <strong>Yongliang Wu</strong>, Xu Yang* (*Corresponding author)
+    conference_short: FCS
+    conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024.
+    pdf: https://link.springer.com/article/10.1007/s11704-024-40013-9
+    image: ./assets/img/FCS2024.png
+
   - title: Exploring Diverse In-Context Configurations for Image Captioning
-    authors: Xu Yang*, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng (*Corresponding authors)
+    authors: Xu Yang*, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng (*Corresponding author)
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2305.14800
