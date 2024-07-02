@@ -3,9 +3,9 @@ main:
   - title: Zero-Shot Long-Form Video Understanding through Screenplay
     authors: <strong>Yongliang Wu</strong>, Bozheng Li, Jiawang Cao, Wenbo Zhu, Yi Lu, Weiheng Chi, Chuyun Xie, Haolin Zheng, Ziyue Su, Jay Wu, Xu Yang
     conference_short: Technical Report
-    conference: Highest Score Award solution to the CVPR'2024 LOVEU Track 1 Challenge.
+    conference: 🏆 Highest Score Award solution to the CVPR'2024 LOVEU Track 1 Challenge.
     pdf: https://arxiv.org/abs/2406.17309
-    image: ./assets/img/FCS2024.png
+    image: ./assets/img/screenplayer.png
 
   - title: A glance at In-Context
     authors: <strong>Yongliang Wu</strong>, Xu Yang*
