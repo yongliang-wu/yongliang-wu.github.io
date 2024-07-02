@@ -1,14 +1,21 @@
 main:
 
+  - title: Zero-Shot Long-Form Video Understanding through Screenplay
+    authors: <strong>Yongliang Wu</strong>, Bozheng Li, Jiawang Cao, Wenbo Zhu, Yi Lu, Weiheng Chi, Chuyun Xie, Haolin Zheng, Ziyue Su, Jay Wu, Xu Yang
+    conference_short: arXiv
+    conference: Technical Report, Highest Score Award to the CVPR'2024 LOVEU Track 1 Challenge.
+    pdf: https://arxiv.org/abs/2406.17309
+    image: ./assets/img/FCS2024.png
+
   - title: A glance at In-Context
-    authors: <strong>Yongliang Wu</strong>, Xu Yang* (*Corresponding author)
+    authors: <strong>Yongliang Wu</strong>, Xu Yang*
     conference_short: FCS
     conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024.
     pdf: https://link.springer.com/article/10.1007/s11704-024-40013-9
     image: ./assets/img/FCS2024.png
 
   - title: Exploring Diverse In-Context Configurations for Image Captioning
-    authors: Xu Yang*, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng (*Corresponding author)
+    authors: Xu Yang*, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2305.14800
