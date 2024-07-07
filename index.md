@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am currently a Master student at [Southeast University](https://www.seu.edu.cn/) supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/).
+Hello! I'm currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
 ## Research Interests
 
-- **Deep Learning:** In-Context Learning, Video Understanding, Diffusion Model.
+- **In-Context Learning**
+- **Video Understanding**
+- **Diffusion Model**
 
 ## News
 
