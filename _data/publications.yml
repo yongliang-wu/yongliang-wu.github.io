@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2406.17309
     image: ./assets/img/screenplayer.png
 
-  - title: A glance at In-Context
+  - title: A glance at In-Context Learning
     authors: <strong>Yongliang Wu</strong>, Xu Yang*
     conference_short: FCS
     conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024. <strong>(CCF-B)</strong>
