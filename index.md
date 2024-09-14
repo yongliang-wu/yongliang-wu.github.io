@@ -8,9 +8,9 @@ Hello! I'm currently a Master student at [Southeast University](https://www.seu.
 
 ## Research Interests
 
-- **In-Context Learning**
-- **Video Understanding**
-- **Diffusion Model**
+- **Multi-modal In-Context Learning**
+- **Video Large Language Model**
+- **Text-to-Image Diffusion Model**
 
 ## News
 
