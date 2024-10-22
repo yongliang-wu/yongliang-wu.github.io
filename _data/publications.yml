@@ -7,6 +7,13 @@ main:
     pdf: https://arxiv.org/abs/2406.17309
     image: ./assets/img/screenplayer.png
 
+  - title: Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
+    authors: <strong>Yongliang Wu</strong>, Shiji Zhou, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xiao Zhou, Xu Yang
+    conference_short: Preprint
+    conference: Preprint, under review.
+    pdf: https://arxiv.org/abs/2405.15304
+    image: ./assets/img/unlearn.png
+
   - title: A glance at In-Context Learning
     authors: <strong>Yongliang Wu</strong>, Xu Yang*
     conference_short: FCS
