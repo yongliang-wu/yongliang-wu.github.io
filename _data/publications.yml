@@ -1,12 +1,5 @@
 main:
 
-  - title: Zero-Shot Long-Form Video Understanding through Screenplay
-    authors: <strong>Yongliang Wu</strong>, Bozheng Li, Jiawang Cao, Wenbo Zhu, Yi Lu, Weiheng Chi, Chuyun Xie, Haolin Zheng, Ziyue Su, Jay Wu, Xu Yang
-    conference_short: Technical Report
-    conference: 🏆 Highest Score Award at the CVPR'2024 LOVEU Long-Term Video Question Answering Challenge.
-    pdf: https://arxiv.org/abs/2406.17309
-    image: ./assets/img/screenplayer.png
-
   - title: Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
     authors: <strong>Yongliang Wu</strong>, Shiji Zhou, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xiao Zhou, Xu Yang
     conference_short: Preprint
