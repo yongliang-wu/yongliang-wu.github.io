@@ -6,7 +6,7 @@ layout: homepage
 
 Hello! I'm currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
-I'm currently looking for research assistance and a PhD position starting in the fall of 2026. If you are interested, please feel free to contact me. Here is my [resume](./assets/files/wuyongliang_resume.pdf).
+I'm currently looking for research assistance and PhD position starting from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](./assets/files/wuyongliang_resume.pdf).
 
 ## Research Interests
 - **Vision-Language Model**
