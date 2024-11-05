@@ -6,8 +6,12 @@ layout: homepage
 
 Hello! I'm currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof.Xu Yang](https://yxpalmweb.github.io/). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
+I'm currently looking for research assistance and a PhD position starting in the fall of 2026. If you are interested, please feel free to contact me. Here is my [resume](./assets/files/wuyongliang_resume.pdf).
+
 ## Research Interests
-- **Vision-Language Model, Machine Unlearning, In-Context Learning**
+- **Vision-Language Model**
+- **Machine Unlearning**
+- **In-Context Learning**
 
 ## News
 - **[Sep. 2024]** 🏆 Best Performance in [Hour-long videoQA challenge of the Second Perception Test challenge @ECCV2024](https://ptchallenge-workshop.github.io/).
