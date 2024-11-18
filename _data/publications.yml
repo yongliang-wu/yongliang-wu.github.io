@@ -1,6 +1,6 @@
 main:
 
-  - title: Number it: Temporal Grounding Videos like Flipping Manga
+  - title: Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
     authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
     conference_short: Preprint
     conference: Preprint, under review.
@@ -16,7 +16,7 @@ main:
     code: https://github.com/yongliang-wu/unlearn-DoCoPreG
     image: ./assets/img/unlearn.png
 
-  - title: A glance at In-Context Learning
+  - title: A Glance at In-Context Learning
     authors: "<strong>Yongliang Wu</strong>, Xu Yang"
     conference_short: FCS
     conference: "Frontiers of Computer Science (FCS), 2024. (CCF-B)"
