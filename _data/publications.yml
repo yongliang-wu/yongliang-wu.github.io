@@ -1,7 +1,15 @@
 main:
 
   - title: Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
-    authors: "Yongliang Wu*, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xiao Zhou, Xu Yang"
+    authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
+    conference_short: Preprint
+    conference: Preprint, under review.
+    pdf: https://arxiv.org/abs/2411.10332
+    code: https://github.com/yongliang-wu/NumPro
+    image: ./assets/img/numpro.png
+    
+  - title: Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
+    authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xiao Zhou, Xu Yang"
     conference_short: Preprint
     conference: Preprint, under review.
     pdf: https://arxiv.org/abs/2405.15304
@@ -9,14 +17,14 @@ main:
     image: ./assets/img/unlearn.png
 
   - title: A glance at In-Context Learning
-    authors: "Yongliang Wu, Xu Yang"
+    authors: "<strong>Yongliang Wu</strong>, Xu Yang"
     conference_short: FCS
     conference: "Frontiers of Computer Science (FCS), 2024. (CCF-B)"
     pdf: https://link.springer.com/article/10.1007/s11704-024-40013-9
     image: ./assets/img/FCS2024.png
 
   - title: Exploring Diverse In-Context Configurations for Image Captioning
-    authors: "Xu Yang, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng"
+    authors: "Xu Yang, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng"
     conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems (NeurIPS), 2023. (CCF-A)"
     pdf: https://arxiv.org/abs/2305.14800
