@@ -21,7 +21,7 @@ main:
     conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
     code: https://github.com/yongliang-wu/Repurpose
-    image: ./assets/img/repurpose.png
+    image: ./assets/img/repurpose.pdf
 
   - title: "A Glance at In-Context Learning"
     authors: "<strong>Yongliang Wu</strong>, Xu Yang"
