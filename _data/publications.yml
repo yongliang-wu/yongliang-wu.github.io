@@ -9,15 +9,15 @@ main:
     image: ./assets/img/numpro.png
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
-    authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xiao Zhou, Xu Yang"
-    conference_short: Preprint
+    authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
+    conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
     pdf: https://arxiv.org/abs/2405.15304
     code: https://github.com/yongliang-wu/unlearn-DoCo
     image: ./assets/img/unlearn.png
     
   - title: "Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark"
-    authors: "<strong>Yongliang Wu</strong>, Wenbo Zhu, Jiawang Cao, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
+    authors: "<strong>Yongliang Wu*</strong>, Wenbo Zhu*, Jiawang Cao*, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
     conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
     code: https://github.com/yongliang-wu/Repurpose
