@@ -20,6 +20,7 @@ main:
     authors: "<strong>Yongliang Wu*</strong>, Wenbo Zhu*, Jiawang Cao*, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
     conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
+    pdf: https://arxiv.org/abs/2412.08879
     code: https://github.com/yongliang-wu/Repurpose
     image: ./assets/img/repurpose.png
 
