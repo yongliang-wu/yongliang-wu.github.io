@@ -15,10 +15,8 @@ I'm currently looking for research assistance and PhD position start from 2026 f
 
 ## News
 - **[Dec. 2024]** Two papers are accepted by AAAI2025.
-- **[Sep. 2024]** 🏆 First Place in [Hour-long videoQA challenge of the Second Perception Test challenge @ECCV2024](https://ptchallenge-workshop.github.io/).
-[\[Technical Report\]](https://drive.google.com/file/d/1R0zpIGfviujEjo7deg5IqmJQaPLxHs5J/view) [\[Certification\]](./assets/img/hourlong.pdf)
-- **[Jun. 2024]** 🏆 First Place in [Long-Term Video Question Answering challenge of the Long-Form Video Understanding Workshop @CVPR2024 ](https://sites.google.com/view/loveucvpr24/track1).
-[\[Technical Report\]](https://arxiv.org/abs/2406.17309) [\[Certification\]](./assets/img/moivechat.pdf)
+- **[Sep. 2024]** 🏆 First Place in [Hour-long videoQA challenge @ECCV2024](https://ptchallenge-workshop.github.io/). [\[Certification\]](./assets/img/hourlong.pdf)
+- **[Jun. 2024]** 🏆 First Place in [Long-Term VideoQA challenge @CVPR2024](https://sites.google.com/view/loveucvpr24/track1). [\[Certification\]](./assets/img/moivechat.pdf)
 - **[Apr. 2024]** One paper is accepted by FCS 2024.
 - **[Sep. 2023]** One paper is accepted by NeurIPS 2023.
 
