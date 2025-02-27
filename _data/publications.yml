@@ -2,8 +2,8 @@ main:
 
   - title: "Number it: Temporal Grounding Videos like Flipping Manga"
     authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
-    conference_short: Preprint
-    conference: Preprint, under review.
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025."
     pdf: https://arxiv.org/abs/2411.10332
     code: https://github.com/yongliang-wu/NumPro
     image: ./assets/img/numpro.png
@@ -11,7 +11,7 @@ main:
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
     authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
     conference_short: AAAI
-    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
+    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025."
     pdf: https://arxiv.org/abs/2405.15304
     code: https://github.com/yongliang-wu/unlearn-DoCo
     image: ./assets/img/unlearn.png
@@ -19,7 +19,7 @@ main:
   - title: "Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark"
     authors: "<strong>Yongliang Wu*</strong>, Wenbo Zhu*, Jiawang Cao*, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
     conference_short: AAAI
-    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF-A)"
+    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025."
     pdf: https://arxiv.org/abs/2412.08879
     code: https://github.com/yongliang-wu/Repurpose
     image: ./assets/img/repurpose.png
@@ -27,14 +27,14 @@ main:
   - title: "A Glance at In-Context Learning"
     authors: "<strong>Yongliang Wu</strong>, Xu Yang"
     conference_short: FCS
-    conference: "Frontiers of Computer Science (FCS), 2024. (CCF-B)"
+    conference: "Frontiers of Computer Science (FCS), 2024."
     pdf: https://link.springer.com/article/10.1007/s11704-024-40013-9
     image: ./assets/img/FCS2024.png
 
   - title: "Exploring Diverse In-Context Configurations for Image Captioning"
     authors: "Xu Yang, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng"
     conference_short: NeurIPS
-    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2023. (CCF-A)"
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2023."
     pdf: https://arxiv.org/abs/2305.14800
     code: https://github.com/yongliang-wu/ExploreCfg
     image: ./assets/img/NeurIPS2023.png
