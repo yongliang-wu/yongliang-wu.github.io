@@ -15,7 +15,7 @@ I'm currently looking for PhD position start from 2026 fall. If you are interest
 
 ## News
 - **[Feb. 2025]** 🎉 Two papers are accepted by CVPR 2025.
-- **[Dec. 2024]** Two papers are accepted by AAAI 2025.
+- **[Dec. 2024]** 🎉 Two papers are accepted by AAAI 2025.
 - **[Sep. 2024]** 🏆 First Place in [Hour-long videoQA challenge @ECCV2024](https://ptchallenge-workshop.github.io/). [\[Certification\]](./assets/img/hourlong.pdf)
 - **[Jun. 2024]** 🏆 First Place in [Long-Term VideoQA challenge @CVPR2024](https://sites.google.com/view/loveucvpr24/track1). [\[Certification\]](./assets/img/moivechat.pdf)
 - **[Apr. 2024]** 🎉 One paper is accepted by FCS 2024.
