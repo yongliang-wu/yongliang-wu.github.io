@@ -11,8 +11,9 @@ main:
   - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
     authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
     conference_short: CVPR
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025."
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
     image: ./assets/img/veu-bench.png
+    notes: Highlight
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
     authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
