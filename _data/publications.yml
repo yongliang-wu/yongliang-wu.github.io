@@ -13,6 +13,7 @@ main:
     conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
     image: ./assets/img/veu-bench.png
+    pdf: https://arxiv.org/abs/2504.17828
     notes: Highlight
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
