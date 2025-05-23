@@ -1,4 +1,16 @@
 main:
+  - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
+  authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
+  conference_short: Preprint
+  conference: "arXiv, 2025."
+  image: ./assets/img/kris-bench.png
+  code: https://yongliang-wu.github.io/kris_bench_project_page/
+
+  - title: "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought"
+  authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
+  conference_short: ACL
+  conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
+  image: ./assets/img/rsvp.png
 
   - title: "Number it: Temporal Grounding Videos like Flipping Manga"
     authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
