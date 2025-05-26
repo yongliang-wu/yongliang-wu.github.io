@@ -3,6 +3,7 @@ main:
     authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
     conference_short: Preprint
     conference: "arXiv, 2025.5."
+    pdf: https://arxiv.org/abs/2505.16707
     image: ./assets/img/kris-bench.png
     code: https://yongliang-wu.github.io/kris_bench_project_page/
 
