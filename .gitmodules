@@ -1,3 +1,6 @@
 [submodule "kris_bench_project_page"]
 	path = kris_bench_project_page
 	url = https://github.com/yongliang-wu/kris_bench_project_page.git
+[submodule "what_makes_good_video"]
+	path = what_makes_good_video
+	url = git@github.com:yongliang-wu/what_makes_good_video.git
