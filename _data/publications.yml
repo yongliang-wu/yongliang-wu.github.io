@@ -11,6 +11,7 @@ main:
     authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
     conference_short: ACL
     conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
+    pdf: https://arxiv.org/abs/2506.04277
     image: ./assets/img/rsvp.png
 
   - title: "Number it: Temporal Grounding Videos like Flipping Manga"
@@ -27,6 +28,7 @@ main:
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
     image: ./assets/img/veu-bench.png
     pdf: https://arxiv.org/abs/2504.17828
+    code: https://labazh.github.io/VEU-Bench.github.io/
     notes: Highlight
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
