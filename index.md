@@ -14,6 +14,7 @@ Hello! I'm currently a Master student at [Southeast University](https://www.seu.
 - **In-Context Learning**
 
 ## News
+- **[Jul. 2025]** 🔥 We are organizing [NextVid Workshop@NeurIPS](https://what-makes-good-video.github.io/).
 - **[May 2025]** 🎉 One paper is accepted by ACL 2025.
 - **[Feb. 2025]** 🎉 Two papers are accepted by CVPR 2025.
 - **[Dec. 2024]** 🎉 Two papers are accepted by AAAI 2025.
