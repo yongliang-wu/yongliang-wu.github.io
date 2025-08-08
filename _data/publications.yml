@@ -1,4 +1,12 @@
 main:
+  - title: "On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification"
+    authors: "<strong>Yongliang Wu*</strong>, Yizhou Zhou*, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang"
+    conference_short: Preprint
+    conference: "arXiv, 2025.8."
+    pdf: https://arxiv.org/abs/2508.05629
+    image: ./assets/img/dft.png
+    code: https://github.com/yongliang-wu/DFT
+
   - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
     authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
     conference_short: Preprint
