@@ -6,12 +6,11 @@ layout: homepage
 
 Hello! I'm currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof. Xu Yang](https://yxpalmweb.github.io/). I also work closely with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) at Max Planck Institute for Informatics and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at University of California, Merced. I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
-**🎓 I'm currently looking for PhD position starting from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](./assets/files/wuyongliang_resume.pdf).**
 
 ## Research Interests
 - **Vision-Language Model**
 - **Machine Unlearning**
-- **In-Context Learning**
+- **Reinforcement Learning**
 
 ## News
 - **[Sept. 2025]** 🎉 One paper is accepted by NeurIPS 2025.

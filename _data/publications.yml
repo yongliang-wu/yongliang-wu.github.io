@@ -6,6 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2508.05629
     image: ./assets/img/dft.png
     code: https://github.com/yongliang-wu/DFT
+    notes: Integrated by ms-swift, trl, llama-factory.
 
   - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
     authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
@@ -22,6 +23,24 @@ main:
     pdf: https://arxiv.org/abs/2411.10332
     code: https://github.com/yongliang-wu/NumPro
     image: ./assets/img/numpro.png
+    notes: Adopted by Andrew Zisserman's work
+  
+  - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
+    authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
+    image: ./assets/img/veu-bench.png
+    pdf: https://arxiv.org/abs/2504.17828
+    code: https://labazh.github.io/VEU-Bench.github.io/
+    notes: Highlight
+
+  - title: "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought"
+    authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
+    conference_short: ACL
+    conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
+    pdf: https://arxiv.org/abs/2506.04277
+    image: ./assets/img/rsvp.png
+    notes: Compared by SAM-3
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
     authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
@@ -46,19 +65,3 @@ main:
     pdf: https://arxiv.org/abs/2305.14800
     code: https://github.com/yongliang-wu/ExploreCfg
     image: ./assets/img/NeurIPS2023.png
-
-  - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
-    authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
-    conference_short: CVPR
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
-    image: ./assets/img/veu-bench.png
-    pdf: https://arxiv.org/abs/2504.17828
-    code: https://labazh.github.io/VEU-Bench.github.io/
-    notes: Highlight
-
-  - title: "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought"
-    authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
-    conference_short: ACL
-    conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
-    pdf: https://arxiv.org/abs/2506.04277
-    image: ./assets/img/rsvp.png
