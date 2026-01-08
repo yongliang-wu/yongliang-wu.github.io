@@ -9,8 +9,8 @@ Hello! I'm currently a Master student at [Southeast University](https://www.seu.
 
 ## Research Interests
 - **Vision-Language Model**
-- **Machine Unlearning**
 - **Reinforcement Learning**
+- **Machine Unlearning**
 
 ## News
 - **[Sept. 2025]** 🎉 One paper is accepted by NeurIPS 2025.
