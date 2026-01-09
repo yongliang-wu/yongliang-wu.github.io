@@ -23,7 +23,7 @@ main:
     pdf: https://arxiv.org/abs/2411.10332
     code: https://github.com/yongliang-wu/NumPro
     image: ./assets/img/numpro.png
-    notes: Adopted by Andrew Zisserman's work (Shot-by-Shot).
+    notes: Adopted by Andrew Zisserman's work.
   
   - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
     authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
