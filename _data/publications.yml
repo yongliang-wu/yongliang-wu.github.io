@@ -1,8 +1,8 @@
 main:
   - title: "On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification"
     authors: "<strong>Yongliang Wu*</strong>, Yizhou Zhou*, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang"
-    conference_short: Preprint
-    conference: "arXiv, 2025.8."
+    conference_short: ICLR
+    conference: "International Conference on Learning Representations (ICLR), 2026."
     pdf: https://arxiv.org/abs/2508.05629
     image: ./assets/img/dft.png
     code: https://github.com/yongliang-wu/DFT

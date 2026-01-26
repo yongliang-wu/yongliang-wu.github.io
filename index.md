@@ -13,6 +13,7 @@ Hello! I'm currently a Master student at [Southeast University](https://www.seu.
 - **Machine Unlearning**
 
 ## News
+- **[Jan. 2026]** 🎉 One paper is accepted by ICLR 2026.
 - **[Sept. 2025]** 🎉 One paper is accepted by NeurIPS 2025.
 - **[Jul. 2025]** 🔥 We are organizing [NextVid Workshop@NeurIPS 2025](https://what-makes-good-video.github.io/).
 - **[May 2025]** 🎉 One paper is accepted by ACL 2025.
