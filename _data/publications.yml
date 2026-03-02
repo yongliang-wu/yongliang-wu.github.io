@@ -1,4 +1,10 @@
 main:
+  - title: "Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning"
+    authors: "Xingyu Zhu, Liang Yi, Shuo Wang, Wenbo Zhu, <strong>Yongliang Wu</strong>, Beier Zhu, Hanwang Zhang "
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
+    image: ./assets/img/apc.jpg
+
   - title: "On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification"
     authors: "<strong>Yongliang Wu*</strong>, Yizhou Zhou*, Zhou Ziheng, Yingzhe Peng, Xinyu Ye, Xinting Hu, Wenbo Zhu, Lu Qi, Ming-Hsuan Yang, Xu Yang"
     conference_short: ICLR
@@ -7,6 +13,13 @@ main:
     image: ./assets/img/dft.png
     code: https://github.com/yongliang-wu/DFT
     notes: Integrated by ms-swift, trl, llama-factory.
+
+  - title: "CoT Vectors: Transferring and Probing the Reasoning Mechanisms of LLMs"
+    authors: "Li Li, Ziyi Wang, <strong>Yongliang Wu</strong>, Jianfei Cai, Xu Yang"
+    conference_short: ICLR
+    conference: "International Conference on Learning Representations (ICLR), 2026."
+    pdf: https://arxiv.org/abs/2510.00579
+    image: ./assets/img/cot.jpg
 
   - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
     authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
