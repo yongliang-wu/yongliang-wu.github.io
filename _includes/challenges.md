@@ -1,4 +1,4 @@
-## Awards & Challenges
+## Competitions
 
 <ul style="margin:0 0 20px;">
   <li><autocolor><b>Winner</b>, Multilingual Video Reasoning challenge of the Vid-LLMs Workshop @CVPR2025</autocolor></li>
