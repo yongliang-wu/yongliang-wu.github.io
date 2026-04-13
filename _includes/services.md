@@ -12,5 +12,5 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>IEEE TCSVT, FCS</autocolor></li>
+  <li><autocolor>IJCV, TCSVT, Neurocomputing, FCS</autocolor></li>
 </ul>
