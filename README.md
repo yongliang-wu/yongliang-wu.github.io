@@ -22,7 +22,6 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 - Supporting dark mode
 
 ## Project Architecture
-
 ```
 .
 ├── _data                    
