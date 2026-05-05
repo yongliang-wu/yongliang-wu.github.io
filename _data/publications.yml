@@ -13,6 +13,7 @@ main:
     image: ./assets/img/dft.png
     code: https://github.com/yongliang-wu/DFT
     notes: Integrated by ms-swift, trl, llama-factory.
+    primary_author: true
 
   - title: "CoT Vectors: Transferring and Probing the Reasoning Mechanisms of LLMs"
     authors: "Li Li, Ziyi Wang, <strong>Yongliang Wu</strong>, Jianfei Cai, Xu Yang"
@@ -28,6 +29,8 @@ main:
     pdf: https://arxiv.org/abs/2505.16707
     image: ./assets/img/kris-bench.png
     code: https://yongliang-wu.github.io/kris_bench_project_page/
+    notes: Widely used as a benchmark for image editing.
+    primary_author: true
 
   - title: "Number it: Temporal Grounding Videos like Flipping Manga"
     authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
@@ -37,6 +40,7 @@ main:
     code: https://github.com/yongliang-wu/NumPro
     image: ./assets/img/numpro.png
     notes: Adopted by Andrew Zisserman's work.
+    primary_author: true
   
   - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
     authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
@@ -52,8 +56,10 @@ main:
     conference_short: ACL
     conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
     pdf: https://arxiv.org/abs/2506.04277
+    code: https://github.com
     image: ./assets/img/rsvp.png
     notes: Compared and cited by SAM 3.
+    primary_author: true
 
   - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
     authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
@@ -62,6 +68,7 @@ main:
     pdf: https://arxiv.org/abs/2405.15304
     code: https://github.com/yongliang-wu/DoCo
     image: ./assets/img/unlearn.png
+    primary_author: true
     
   - title: "Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark"
     authors: "<strong>Yongliang Wu*</strong>, Wenbo Zhu*, Jiawang Cao*, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
@@ -70,6 +77,7 @@ main:
     pdf: https://arxiv.org/abs/2412.08879
     code: https://github.com/yongliang-wu/Repurpose
     image: ./assets/img/repurpose.png
+    primary_author: true
 
   - title: "Exploring Diverse In-Context Configurations for Image Captioning"
     authors: "Xu Yang, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng"

@@ -215,6 +215,7 @@ h1 {
 a {
   color:#39c;
   text-decoration:none;
+  transition: color 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
 }
 
 a:hover {
@@ -233,7 +234,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1020px;
   margin:0 auto;
 }
 
@@ -353,7 +354,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:710px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -379,7 +380,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1020px) {
 
   .pub-row {
   display: flex; 
@@ -434,7 +435,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1020px) {
   body {
     word-wrap:break-word;
     padding:15px;

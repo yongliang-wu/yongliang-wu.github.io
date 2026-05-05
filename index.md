@@ -8,13 +8,43 @@ I'm currently a final-year Master student at [Southeast University](https://www.
 
 
 ## News
-- **[Feb. 2026]** 🎉 One paper is accepted by CVPR 2026.
-- **[Jan. 2026]** 🎉 Two papers are accepted by ICLR 2026.
-- **[Sept. 2025]** 🎉 One paper is accepted by NeurIPS 2025.
-- **[Jul. 2025]** 🔥 We are organizing [NextVid Workshop@NeurIPS 2025](https://what-makes-good-video.github.io/).
-- **[May 2025]** 🎉 One paper is accepted by ACL 2025.
-- **[Feb. 2025]** 🎉 Two papers are accepted by CVPR 2025.
-- **[Dec. 2024]** 🎉 Two papers are accepted by AAAI 2025.
+
+<div class="news-scroll" aria-label="News archive">
+  <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">Feb. 2026</span>
+      <span class="news-text">🎉 One paper is accepted by CVPR 2026.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jan. 2026</span>
+      <span class="news-text">🎉 Two papers are accepted by ICLR 2026.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Sept. 2025</span>
+      <span class="news-text">🎉 One paper is accepted by NeurIPS 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jul. 2025</span>
+      <span class="news-text">🔥 We are organizing <a href="https://what-makes-good-video.github.io/">NextVid Workshop@NeurIPS 2025</a>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">May 2025</span>
+      <span class="news-text">🎉 One paper is accepted by ACL 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Feb. 2025</span>
+      <span class="news-text">🎉 Two papers are accepted by CVPR 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Dec. 2024</span>
+      <span class="news-text">🎉 Two papers are accepted by AAAI 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Sept. 2023</span>
+      <span class="news-text">🎉 One paper is accepted by NeurIPS 2023.</span>
+    </li>
+  </ul>
+</div>
 
 {% include_relative _includes/publications.md %}
 

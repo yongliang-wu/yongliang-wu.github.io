@@ -1,53 +1,36 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="publications-heading">
+  <h2 id="publications">Publications</h2>
+  <button type="button" class="show-publications-button" aria-expanded="false" aria-controls="publications-list" data-show-text="Show all" data-hide-text="Show selected">Show all</button>
+</div>
 
-<div class="publications">
+<div class="publications" id="publications-list">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px; width: 200px; flex: 0 0 200px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px; flex: 1; min-width: 0;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
+{% if link.primary_author %}
+{% include publication_item.html link=link %}
+{% else %}
+{% include publication_item.html link=link extra_class="secondary-publication" %}
+{% endif %}
 {% endfor %}
 
 </ol>
 </div>
 
+<script>
+  (function() {
+    var button = document.querySelector('.show-publications-button');
+    var publications = document.querySelector('.publications');
+
+    if (!button || !publications) {
+      return;
+    }
+
+    button.addEventListener('click', function() {
+      var expanded = publications.classList.toggle('show-all-publications');
+      button.setAttribute('aria-expanded', expanded);
+      button.textContent = expanded ? button.dataset.hideText : button.dataset.showText;
+    });
+  })();
+</script>
