@@ -77,9 +77,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Verknüpfungen
 # Wenn Sie eine davon nicht benötigen, können Sie die entsprechende Zeile löschen.
 google_scholar: https://scholar.google.com/
-cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
