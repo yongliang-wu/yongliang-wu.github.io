@@ -13,15 +13,15 @@ I'm currently a final-year Master student at [Southeast University](https://www.
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
-      <span class="news-text">🥇 Won the Visual Question Answering Challenge at SoccerNet @ CVPR 2026.</span>
+      <span class="news-text">🥇 Visual Question Answering, SoccerNet @ CVPR 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
-      <span class="news-text">🥇 Won the TimeLogic Challenge at Vid-LLMs Workshop @ CVPR 2026.</span>
+      <span class="news-text">🥇 TimeLogic Challenge, Vid-LLMs Workshop @ CVPR 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
-      <span class="news-text">🥈 Runner-up of the VRR-QA Challenge at Vid-LLMs Workshop @ CVPR 2026.</span>
+      <span class="news-text">🥈 VRR-QA Challenge, Vid-LLMs Workshop @ CVPR 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Feb. 2026</span>
@@ -33,7 +33,7 @@ I'm currently a final-year Master student at [Southeast University](https://www.
     </li>
     <li class="news-item">
       <span class="news-date">Oct. 2025</span>
-      <span class="news-text">🥈 Runner-up of the Hour-long videoQA track at Perception Test Challenge @ ICCV 2025.</span>
+      <span class="news-text">🥈 Hour-long videoQA, Perception Test Challenge @ ICCV 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Sept. 2025</span>
@@ -45,15 +45,15 @@ I'm currently a final-year Master student at [Southeast University](https://www.
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2025</span>
-      <span class="news-text">🥇 Won the Multilingual Video Reasoning Challenge at Vid-LLMs Workshop @ CVPR 2025.</span>
+      <span class="news-text">🥇 Multilingual Video Reasoning, Vid-LLMs Workshop @ CVPR 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2025</span>
-      <span class="news-text">🥈 Runner-up of the Complex Video Reasoning Challenge at Vid-LLMs Workshop @ CVPR 2025.</span>
+      <span class="news-text">🥈 Complex Video Reasoning, Vid-LLMs Workshop @ CVPR 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2025</span>
-      <span class="news-text">🥉 Third Place of the Multi-View Foul Recognition Challenge at SoccerNet @ CVPR 2025.</span>
+      <span class="news-text">🥉 Multi-View Foul Recognition, SoccerNet @ CVPR 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2025</span>
@@ -69,11 +69,11 @@ I'm currently a final-year Master student at [Southeast University](https://www.
     </li>
     <li class="news-item">
       <span class="news-date">Oct. 2024</span>
-      <span class="news-text">🥇 Won the Hour-long videoQA track at Perception Test Challenge @ ECCV 2024.</span>
+      <span class="news-text">🥇 Hour-long videoQA, Perception Test Challenge @ ECCV 2024.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2024</span>
-      <span class="news-text">🥇 Won the Long-Term videoQA Challenge at LOVEU Workshop @ CVPR 2024.</span>
+      <span class="news-text">🥇 Long-Term videoQA, LOVEU Workshop @ CVPR 2024.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Sept. 2023</span>
