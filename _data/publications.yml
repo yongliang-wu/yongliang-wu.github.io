@@ -3,6 +3,7 @@ main:
     authors: "Xingyu Zhu, Liang Yi, Shuo Wang, Wenbo Zhu, <strong>Yongliang Wu</strong>, Beier Zhu, Hanwang Zhang "
     conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
+    pdf: https://arxiv.org/abs/2603.22070
     image: ./assets/img/apc.jpg
 
   - title: "On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification"

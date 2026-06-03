@@ -12,6 +12,18 @@ I'm currently a final-year Master student at [Southeast University](https://www.
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Jun. 2026</span>
+      <span class="news-text">🥇 Won the Visual Question Answering Challenge at SoccerNet @ CVPR 2026.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2026</span>
+      <span class="news-text">🥇 Won the TimeLogic Challenge at Vid-LLMs Workshop @ CVPR 2026.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2026</span>
+      <span class="news-text">🥈 Runner-up of the VRR-QA Challenge at Vid-LLMs Workshop @ CVPR 2026.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Feb. 2026</span>
       <span class="news-text">🎉 One paper is accepted by CVPR 2026.</span>
     </li>
@@ -20,12 +32,28 @@ I'm currently a final-year Master student at [Southeast University](https://www.
       <span class="news-text">🎉 Two papers are accepted by ICLR 2026.</span>
     </li>
     <li class="news-item">
+      <span class="news-date">Oct. 2025</span>
+      <span class="news-text">🥈 Runner-up of the Hour-long videoQA track at Perception Test Challenge @ ICCV 2025.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Sept. 2025</span>
       <span class="news-text">🎉 One paper is accepted by NeurIPS 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jul. 2025</span>
       <span class="news-text">🔥 We are organizing <a href="https://what-makes-good-video.github.io/">NextVid Workshop@NeurIPS 2025</a>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2025</span>
+      <span class="news-text">🥇 Won the Multilingual Video Reasoning Challenge at Vid-LLMs Workshop @ CVPR 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2025</span>
+      <span class="news-text">🥈 Runner-up of the Complex Video Reasoning Challenge at Vid-LLMs Workshop @ CVPR 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2025</span>
+      <span class="news-text">🥉 Third Place of the Multi-View Foul Recognition Challenge at SoccerNet @ CVPR 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2025</span>
@@ -38,6 +66,14 @@ I'm currently a final-year Master student at [Southeast University](https://www.
     <li class="news-item">
       <span class="news-date">Dec. 2024</span>
       <span class="news-text">🎉 Two papers are accepted by AAAI 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Oct. 2024</span>
+      <span class="news-text">🥇 Won the Hour-long videoQA track at Perception Test Challenge @ ECCV 2024.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2024</span>
+      <span class="news-text">🥇 Won the Long-Term videoQA Challenge at LOVEU Workshop @ CVPR 2024.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Sept. 2023</span>
