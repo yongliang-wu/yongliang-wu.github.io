@@ -12,6 +12,10 @@ I'm currently a final-year Master student at [Southeast University](https://www.
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Jul. 2026</span>
+      <span class="news-text">🎉 One paper is accepted by CoLM 2026.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Jun. 2026</span>
       <span class="news-text">🥇 Visual Question Answering, SoccerNet @ CVPR 2026.</span>
     </li>

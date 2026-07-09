@@ -1,4 +1,11 @@
 main:
+  - title: "OpusAnimation: Code-Based Dynamic Chart Generation"
+    authors: "Bozheng Li, Miao Yang, Zhenhan Chen, Jiawang Cao, Mushui Liu, Yi Lu, <strong>Yongliang Wu</strong>, Bin Zhang, Yangguang Ji, Licheng Tang, Jay Wu, Wenbo Zhu"
+    conference_short: CoLM
+    conference: "The Third Conference on Language Modeling (CoLM), 2026."
+    pdf: https://arxiv.org/abs/2510.03341
+    image: ./assets/img/opusanimation.png
+
   - title: "Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning"
     authors: "Xingyu Zhu, Liang Yi, Shuo Wang, Wenbo Zhu, <strong>Yongliang Wu</strong>, Beier Zhu, Hanwang Zhang "
     conference_short: CVPR
