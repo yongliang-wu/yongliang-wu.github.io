@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), supervised by [Prof. Yaoyao Liu](https://yaoyaoliu.csl.illinois.edu/). I received my Master's and Bachelor's degrees from [Southeast University](https://www.seu.edu.cn/), where I was supervised by [Prof. Xu Yang](https://yxpalmweb.github.io/). I also work closely with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) at Max Planck Institute for Informatics and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at University of California, Merced. I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
+I am an incoming Ph.D. student at the University of Illinois Urbana-Champaign, supervised by [Prof. Yaoyao Liu](https://yaoyaoliu.csl.illinois.edu/). I received my Master's and Bachelor's degrees from Southeast University, where I was supervised by [Prof. Xu Yang](https://yxpalmweb.github.io/). I also work closely with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) at Max Planck Institute for Informatics and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at University of California, Merced. I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
 
 ## News
