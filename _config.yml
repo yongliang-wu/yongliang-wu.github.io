@@ -1,7 +1,8 @@
 # Basic Information 
 title: Yongliang Wu
-position: Master Student
-affiliation: Southeast University
+position: Incoming Ph.D. Student
+affiliation: University of Illinois Urbana-Champaign
+affiliation_link: https://illinois.edu/
 email: yongliang0223@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -19,8 +20,8 @@ linkedin: https://www.linkedin.com/in/yongliang-wu-32b4642a1/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/illinois-favicon.ico
+favicon_dark: ./assets/img/illinois-favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
