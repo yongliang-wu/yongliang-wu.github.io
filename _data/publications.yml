@@ -1,4 +1,11 @@
 main:
+  - title: "Representation Steering via Null-space Alignment for Concept Unlearning in Diffusion Models"
+    authors: "Yanbin Hao*, Chenyi He*, Shuo Wang, <strong>Yongliang Wu</strong>, Xinyu Ye, Xingyu Zhu†, Jiaheng Zhang, Meng Wang"
+    conference_short: ACM MM
+    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    image: ./assets/img/reset.jpg
+    notes: "* Equal contribution. † Corresponding author."
+
   - title: "Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis"
     authors: "Li Li, <strong>Yongliang Wu</strong>, Jingze Zhu, Jiawei Peng, Jianfei Cai, Xu Yang"
     conference_short: TPAMI
