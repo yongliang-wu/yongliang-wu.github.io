@@ -12,12 +12,12 @@ I am a Ph.D. student at UIUC, supervised by [Prof. Yaoyao Liu](https://yaoyaoliu
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
-      <span class="news-date">Aug. 2026</span>
-      <span class="news-text">🎉 One paper is accepted by ACM MM 2026.</span>
+      <span class="news-date">Jul. 2026</span>
+      <span class="news-text">🎉 One paper is accepted by TPAMI.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jul. 2026</span>
-      <span class="news-text">🎉 One paper is accepted by TPAMI.</span>
+      <span class="news-text">🎉 One paper is accepted by ACM MM 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jul. 2026</span>
