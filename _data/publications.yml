@@ -1,16 +1,16 @@
 main:
-  - title: "Representation Steering via Null-space Alignment for Concept Unlearning in Diffusion Models"
-    authors: "Yanbin Hao, Chenyi He, Shuo Wang, <strong>Yongliang Wu</strong>, Xinyu Ye, Xingyu Zhu, Jiaheng Zhang, Meng Wang"
-    conference_short: ACM MM
-    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
-    image: ./assets/img/reset.jpg
-
   - title: "Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis"
     authors: "Li Li, <strong>Yongliang Wu</strong>, Jingze Zhu, Jiawei Peng, Jianfei Cai, Xu Yang"
     conference_short: TPAMI
     conference: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026."
     pdf: https://ieeexplore.ieee.org/abstract/document/11631866
     image: ./assets/img/pami.jpg
+
+  - title: "Representation Steering via Null-space Alignment for Concept Unlearning in Diffusion Models"
+    authors: "Yanbin Hao, Chenyi He, Shuo Wang, <strong>Yongliang Wu</strong>, Xinyu Ye, Xingyu Zhu, Jiaheng Zhang, Meng Wang"
+    conference_short: ACM MM
+    conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    image: ./assets/img/reset.jpg
 
   - title: "OpusAnimation: Code-Based Dynamic Chart Generation"
     authors: "Bozheng Li, Miao Yang, Zhenhan Chen, Jiawang Cao, Mushui Liu, Yi Lu, <strong>Yongliang Wu</strong>, Bin Zhang, Yangguang Ji, Licheng Tang, Jay Wu, Wenbo Zhu"
