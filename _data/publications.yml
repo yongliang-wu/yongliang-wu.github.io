@@ -1,4 +1,28 @@
 main:
+  - title: "BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion"
+    authors: "Wanjiang Weng*, <strong>Yongliang Wu*</strong>, Xiaofeng Tan, Xingyu Zhu, Wenbo Zhu, Hongsong Wang"
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2026."
+    pdf: https://arxiv.org/abs/2609.35407
+    image: ./assets/img/bimogen.png
+    notes: Unified masked diffusion for bidirectional motion-text generation.
+    primary_author: true
+
+  - title: "See, Read, Compare: Candidate-Aware Verification for Agent Test-Time Scaling"
+    authors: "Xinyu Ye, <strong>Yongliang Wu</strong>, Xingyu Zhu, Peng Xia, Huaijin Wu, Rui Ye, Yehui Tang, Hao Xiong, Junchi Yan, Huaxiu Yao"
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2026."
+    pdf: https://openreview.net/pdf?id=SBCpjDSgYq
+    image: ./assets/img/src.jpg
+
+  - title: "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria"
+    authors: "Juanxi Tian, Fengyuan Liu, Jiaming Han, Yilei Jiang, <strong>Yongliang Wu</strong>, Yesheng Liu, Haodong Li, Furong Xu, Wanhua Li"
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2026."
+    pdf: https://arxiv.org/abs/2605.08354
+    code: https://github.com/OpenEnvision/AutoRubric-as-Reward
+    image: ./assets/img/autorubric.png
+
   - title: "Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis"
     authors: "Li Li, <strong>Yongliang Wu</strong>, Jingze Zhu, Jiawei Peng, Jianfei Cai, Xu Yang"
     conference_short: TPAMI
@@ -70,7 +94,6 @@ main:
     image: ./assets/img/veu-bench.png
     pdf: https://arxiv.org/abs/2504.17828
     code: https://labazh.github.io/VEU-Bench.github.io/
-    notes: Highlight Paper.
 
   - title: "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought"
     authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
@@ -89,6 +112,7 @@ main:
     pdf: https://arxiv.org/abs/2405.15304
     code: https://github.com/yongliang-wu/DoCo
     image: ./assets/img/unlearn.png
+    notes: Concept unlearning with strong preservation.
     primary_author: true
     
   - title: "Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark"
@@ -98,6 +122,7 @@ main:
     pdf: https://arxiv.org/abs/2412.08879
     code: https://github.com/yongliang-wu/Repurpose
     image: ./assets/img/repurpose.png
+    notes: Large-scale benchmark for video repurposing.
     primary_author: true
 
   - title: "Exploring Diverse In-Context Configurations for Image Captioning"
