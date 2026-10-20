@@ -4,6 +4,7 @@ main:
     conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems (NeurIPS), 2026."
     pdf: https://arxiv.org/abs/2609.35407
+    code: https://github.com/wengwanjiang/BiMoGen
     image: ./assets/img/bimogen.png
     notes: Unified masked diffusion for bidirectional motion-text generation.
     primary_author: true
