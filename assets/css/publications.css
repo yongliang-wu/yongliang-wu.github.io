@@ -267,10 +267,20 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .competition-title {
-  color: var(--global-text-color);
+  color: var(--global-theme-color);
   font-size: 0.9rem;
   font-weight: 700;
   line-height: 1.12;
+}
+
+.competition-item:hover,
+.competition-item:focus-visible {
+  text-decoration: none;
+}
+
+.competition-item:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
 }
 
 .competition-meta {
