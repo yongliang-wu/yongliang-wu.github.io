@@ -12,6 +12,10 @@ I am a Ph.D. student at the University of Illinois Urbana-Champaign, supervised 
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Oct. 2026</span>
+      <span class="news-text">🥇 DOCSEM Challenge, DocInsights Workshop @ EMNLP 2026.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Sept. 2026</span>
       <span class="news-text">🎉 Three papers are accepted by NeurIPS 2026.</span>
     </li>
@@ -26,6 +30,10 @@ I am a Ph.D. student at the University of Illinois Urbana-Champaign, supervised 
     <li class="news-item">
       <span class="news-date">Jul. 2026</span>
       <span class="news-text">🎉 One paper is accepted by CoLM 2026.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2026</span>
+      <span class="news-text">🥇 BlackSwan Challenge, CogVL Workshop @ CVPR 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
