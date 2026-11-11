@@ -13,7 +13,7 @@ I am a Ph.D. student at the University of Illinois Urbana-Champaign, supervised 
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Oct. 2026</span>
-      <span class="news-text">🥇 Winner of the DOCSEM Challenge, DocInsights Workshop @ EMNLP 2026.</span>
+      <span class="news-text">🥇 DOCSEM Challenge, DocInsights Workshop @ EMNLP 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Sept. 2026</span>
@@ -33,7 +33,7 @@ I am a Ph.D. student at the University of Illinois Urbana-Champaign, supervised 
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
-      <span class="news-text">🥇 Winner of the BlackSwan Challenge, CogVL Workshop @ CVPR 2026.</span>
+      <span class="news-text">🥇 BlackSwan Challenge, CogVL Workshop @ CVPR 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
