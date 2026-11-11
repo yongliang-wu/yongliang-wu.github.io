@@ -3,7 +3,7 @@
     <span class="site-cat-speech" data-cat-speech role="status" aria-live="polite"></span>
     <button class="site-cat-hide" type="button" data-cat-hide aria-label="Hide the cat" title="Hide the cat">×</button>
     <button class="site-cat-pet" type="button" data-cat-pet aria-label="Pet the cat" title="Pet the cat">
-      <svg class="site-cat-drawing" viewBox="0 0 140 150" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <svg class="site-cat-drawing site-cat-awake" viewBox="0 0 140 150" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <ellipse cx="70" cy="140" rx="48" ry="5" fill="currentColor" opacity=".09"/>
         <g class="site-cat-tail">
           <path d="M101 124C131 126 134 101 121 96C110 92 109 103 117 105" stroke="#714C3D" stroke-width="15" stroke-linecap="round"/>
@@ -30,6 +30,27 @@
         </g>
         <path class="site-cat-heart" d="M114 40C103 32 109 23 115 28C122 20 131 31 114 40Z" fill="#DB8787"/>
       </svg>
+      <svg class="site-cat-drawing site-cat-sleeping" viewBox="0 0 140 150" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <ellipse cx="70" cy="140" rx="48" ry="5" fill="currentColor" opacity=".09"/>
+        <g class="site-cat-breathing">
+          <path d="M24 126C19 100 43 85 73 87C106 87 122 108 116 132C105 141 39 143 24 132Z" fill="#ECA65E" stroke="#714C3D" stroke-width="2.6"/>
+          <path d="M83 89L80 100M97 95L92 104M108 105L101 111" stroke="#D58A47" stroke-width="4" stroke-linecap="round"/>
+          <path d="M75 131C99 137 122 130 116 119C112 112 102 116 107 123" stroke="#714C3D" stroke-width="13" stroke-linecap="round"/>
+          <path d="M75 131C99 137 122 130 116 119C112 112 102 116 107 123" stroke="#F4B76E" stroke-width="9" stroke-linecap="round"/>
+          <path d="M22 111L20 87Q20 84 24 87L37 94Q48 91 58 96L72 88Q76 86 75 91L73 115C75 133 61 139 45 138C27 138 17 128 22 111Z" fill="#F4B76E" stroke="#714C3D" stroke-width="2.6" stroke-linejoin="round"/>
+          <path d="M25 102L25 92L32 98M63 100L70 94L69 106" fill="#E99891"/>
+          <path d="M44 95L45 103M54 96L53 103" stroke="#D58A47" stroke-width="3" stroke-linecap="round"/>
+          <ellipse cx="47" cy="125" rx="17" ry="10" fill="#FFE7C5"/>
+          <path d="M29 115Q34 120 39 115M55 115Q60 120 65 115" stroke="#593F35" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M43 122Q47 119 51 122L47 126Z" fill="#C77475"/>
+          <path d="M47 126Q43 131 40 127M47 126Q51 131 54 127" stroke="#714C3D" stroke-width="1.5" stroke-linecap="round"/>
+          <path d="M28 125L15 123M29 130L16 133M65 125L78 123" stroke="#714C3D" stroke-width="1.5" stroke-linecap="round"/>
+        </g>
+        <g class="site-cat-zzz" stroke="#B38561" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M81 76H89L81 84H89"/>
+          <path d="M98 59H109L98 70H109"/>
+        </g>
+      </svg>
     </button>
   </div>
   <button class="site-cat-show" type="button" data-cat-show aria-label="Show the cat" title="Show the cat" hidden>
@@ -42,3 +63,13 @@
     </svg>
   </button>
 </div>
+<button class="cat-back-to-top" type="button" data-cat-top aria-label="Back to top" title="Back to top" hidden>
+  <svg viewBox="0 0 40 40" width="27" height="27" fill="currentColor" aria-hidden="true" focusable="false">
+    <ellipse cx="8" cy="17" rx="3" ry="4" transform="rotate(-25 8 17)"/>
+    <ellipse cx="14" cy="11" rx="3" ry="4"/>
+    <ellipse cx="22" cy="11" rx="3" ry="4"/>
+    <ellipse cx="28" cy="18" rx="3" ry="4" transform="rotate(25 28 18)"/>
+    <path d="M9 28C9 24 13 19 18 19S27 24 27 28C27 34 21 30 18 30S9 34 9 28Z"/>
+    <path d="M33 12V3M29 7L33 3L37 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>

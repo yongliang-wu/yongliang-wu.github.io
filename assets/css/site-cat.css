@@ -63,6 +63,24 @@
   transform-origin: 116px 35px;
 }
 
+.site-cat-sleeping,
+.site-cat.is-sleeping .site-cat-awake {
+  display: none;
+}
+
+.site-cat.is-sleeping .site-cat-sleeping {
+  display: block;
+}
+
+.site-cat-breathing {
+  transform-origin: 70px 140px;
+  animation: site-cat-breathe 4s ease-in-out infinite;
+}
+
+.site-cat-zzz {
+  animation: site-cat-dream 4s ease-in-out infinite;
+}
+
 .site-cat.is-purring .site-cat-head {
   transform: rotate(-5deg);
   transform-origin: 70px 90px;
@@ -152,6 +170,50 @@
   to { transform: translateY(-5px) scale(1); }
 }
 
+@keyframes site-cat-breathe {
+  0%, 100% { transform: scaleY(1); }
+  50% { transform: scaleY(1.035); }
+}
+
+@keyframes site-cat-dream {
+  0%, 100% { opacity: .55; transform: translateY(0); }
+  50% { opacity: 1; transform: translateY(-3px); }
+}
+
+.cat-back-to-top {
+  background: #fffaf3;
+  border: 1px solid #ecd9c3;
+  border-radius: 50%;
+  bottom: max(154px, calc(env(safe-area-inset-bottom) + 140px));
+  box-shadow: 0 2px 8px rgb(66 39 21 / 10%);
+  color: #a46a40;
+  cursor: pointer;
+  display: grid;
+  height: 44px;
+  padding: 0;
+  place-items: center;
+  position: fixed;
+  right: max(52px, calc(env(safe-area-inset-right) + 34px));
+  touch-action: manipulation;
+  transition: transform .15s ease, background-color .15s ease;
+  width: 44px;
+  z-index: 20;
+}
+
+.cat-back-to-top[hidden] {
+  display: none;
+}
+
+.cat-back-to-top:hover {
+  background: #ffecd5;
+  transform: translateY(-2px);
+}
+
+.cat-back-to-top:focus-visible {
+  outline: 2px solid #c57635;
+  outline-offset: 3px;
+}
+
 @media (max-width: 1279px) {
   .site-cat {
     bottom: auto;
@@ -161,6 +223,11 @@
   }
 
   .site-cat-home { min-height: 130px; }
+
+  .cat-back-to-top {
+    bottom: max(14px, env(safe-area-inset-bottom));
+    right: max(14px, env(safe-area-inset-right));
+  }
 }
 
 @media (max-width: 720px) {
@@ -180,15 +247,19 @@
 @media (prefers-color-scheme: dark) {
   .site-cat-hide,
   .site-cat-show,
-  .site-cat-speech {
+  .site-cat-speech,
+  .cat-back-to-top {
     background: #302b28;
     border-color: #645142;
     color: #f4c48e;
   }
+
+  .cat-back-to-top:hover { background: #44372c; }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .site-cat *,
+  .cat-back-to-top,
   .site-cat.is-purring .site-cat-heart,
   .site-cat.is-purring .site-cat-eyes {
     animation: none;
@@ -198,5 +269,6 @@
 
 @media print {
   .site-cat,
-  .site-cat-home { display: none; }
+  .site-cat-home,
+  .cat-back-to-top { display: none; }
 }

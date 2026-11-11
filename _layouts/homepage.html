@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
-    <link rel="stylesheet" href="{{ '/assets/css/site-cat.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site-cat.css' | relative_url }}?v=2">
   </head>
   <body>
     <div class="wrapper">
@@ -106,7 +106,7 @@
       </footer>
     </div>
     {% include site-cat.html %}
-    <script src="{{ '/assets/js/site-cat.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/js/site-cat.js' | relative_url }}?v=2" defer></script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
