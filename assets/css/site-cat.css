@@ -1,6 +1,6 @@
 .site-cat {
   bottom: max(14px, env(safe-area-inset-bottom));
-  color: #714c3d;
+  color: #555c68;
   position: fixed;
   right: max(18px, env(safe-area-inset-right));
   width: 112px;
@@ -64,13 +64,74 @@
 }
 
 .site-cat-sleeping,
-.site-cat.is-sleeping .site-cat-awake {
+.site-cat-boxed,
+.site-cat.is-sleeping .site-cat-awake,
+.site-cat.is-in-box .site-cat-awake {
   display: none;
 }
 
-.site-cat.is-sleeping .site-cat-sleeping {
+.site-cat.is-sleeping .site-cat-sleeping,
+.site-cat.is-in-box .site-cat-boxed {
   display: block;
 }
+
+.site-cat-pet { position: relative; }
+
+.site-cat.is-entering-box .site-cat-boxed {
+  display: block;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.site-cat.is-entering-box .site-cat-box-peek { visibility: hidden; }
+
+.site-cat.is-entering-box .site-cat-awake {
+  animation: site-cat-duck .24s ease-in both;
+}
+
+.site-cat.is-in-box .site-cat-box-peek {
+  animation: site-cat-peek .45s ease-out both;
+}
+
+.site-cat.is-tracking .site-cat-head {
+  transform: translate(var(--cat-look-x, 0px), var(--cat-look-y, 0px)) rotate(var(--cat-look-angle, 0deg));
+  transform-origin: 70px 90px;
+}
+
+.site-cat-gaze {
+  transform: translate(var(--cat-eye-x, 0px), var(--cat-eye-y, 0px));
+}
+
+.site-cat-paw-side {
+  transform: scaleX(var(--cat-paw-side, 1));
+  transform-origin: 70px 100px;
+}
+
+.site-cat-reaching-paw {
+  opacity: 0;
+  transform-origin: 94px 118px;
+}
+
+.site-cat.is-reaching .site-cat-reaching-paw {
+  animation: site-cat-swat .65s ease-in-out both;
+}
+
+.site-cat-toy {
+  height: 48px;
+  left: 0;
+  opacity: 0;
+  overflow: visible;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  transform: translate(var(--cat-toy-x, 0px), var(--cat-toy-y, 0px)) rotate(-12deg);
+  transition: opacity .15s ease;
+  width: 36px;
+  z-index: 1;
+}
+
+.site-cat.is-tracking .site-cat-toy { opacity: 1; }
 
 .site-cat-breathing {
   transform-origin: 70px 140px;
@@ -180,6 +241,20 @@
   50% { opacity: 1; transform: translateY(-3px); }
 }
 
+@keyframes site-cat-duck {
+  to { opacity: 0; transform: translateY(20px) scale(.8); }
+}
+
+@keyframes site-cat-peek {
+  from { transform: translateY(18px); }
+  to { transform: translateY(0); }
+}
+
+@keyframes site-cat-swat {
+  0%, 100% { opacity: 0; transform: rotate(20deg) translateY(9px); }
+  35%, 65% { opacity: 1; transform: rotate(-12deg); }
+}
+
 .cat-back-to-top {
   background: #fffaf3;
   border: 1px solid #ecd9c3;
@@ -260,6 +335,9 @@
 @media (prefers-reduced-motion: reduce) {
   .site-cat *,
   .cat-back-to-top,
+  .site-cat.is-entering-box .site-cat-awake,
+  .site-cat.is-in-box .site-cat-box-peek,
+  .site-cat.is-reaching .site-cat-reaching-paw,
   .site-cat.is-purring .site-cat-heart,
   .site-cat.is-purring .site-cat-eyes {
     animation: none;
