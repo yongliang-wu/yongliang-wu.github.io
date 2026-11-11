@@ -35,6 +35,7 @@ main:
     authors: "Yanbin Hao, Chenyi He, Shuo Wang, <strong>Yongliang Wu</strong>, Xinyu Ye, Xingyu Zhu, Jiaheng Zhang, Meng Wang"
     conference_short: ACM MM
     conference: "ACM International Conference on Multimedia (ACM MM), 2026."
+    pdf: https://dl.acm.org/doi/abs/10.1145/3767308.3835769
     image: ./assets/img/reset.jpg
 
   - title: "OpusAnimation: Code-Based Dynamic Chart Generation"
